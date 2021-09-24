@@ -14,4 +14,4 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/jaceynae/)
 ### My projects
 
 #### Study Projects
-[Create a blog using Gatsby JS and GraphQL](https://my-gatsby-project.surge.sh/)
+[Create a blog using Gatsby JS and GraphQL](https://monoblog.netlify.app/)
